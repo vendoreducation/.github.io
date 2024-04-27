@@ -1,0 +1,23 @@
+.container {
+    text-align: center;
+    margin-top: 50px;
+}
+
+input[type="text"] {
+    width: 300px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+#answer {
+    margin-top: 20px;
+    font-weight: bold;
+}
